@@ -21,4 +21,4 @@ This repository contains my collection of wallpapers. I like them so it is not n
 	```
 
 - Now you need to implement a for loop in your shell and all done.
-## Happy Hacking :D
+## Happy Hacking.
