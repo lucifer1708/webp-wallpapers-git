@@ -11,14 +11,9 @@ This repository contains my collection of wallpapers. I like them so it is not n
    sudo pacman -S imagemagick
 ```
 - Now, you will have installed a tool named **convert** in your system.
- ```bash
-    convert your-input-file.ext your-output-file.webp
+```bash
+$ ./run.sh <your file extension without dot. E.g.: ./run.sh png*
 ```
-
-> You can also use -resize option to resize image in width of 1920
-	```bash
-	convert your-input-file.ext -resize 1920 your-output-file.webp
-	```
 
 - Now you need to implement a for loop in your shell and all done.
 ## Happy Hacking.
