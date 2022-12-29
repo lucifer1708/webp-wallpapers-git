@@ -12,7 +12,7 @@ This repository contains my collection of wallpapers. I like them so it is not n
 ```
 - Now, you will have installed a tool named **convert** in your system.
 ```bash
-$ ./run.sh <your file extension without dot.> E.g.: ./run.sh png*
+$ ./run.sh <your file extension without dot.> E.g.: ./run.sh png
 ```
 
 - Now you need to implement a for loop in your shell and all done.
