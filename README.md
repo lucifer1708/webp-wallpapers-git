@@ -17,3 +17,4 @@ $ ./run.sh <your file extension without dot.> E.g.: ./run.sh png
 
 - Now you need to implement a for loop in your shell and all done.
 ## Happy Hacking.
+
