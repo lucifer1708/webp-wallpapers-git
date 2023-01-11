@@ -17,6 +17,5 @@ $ ./run.sh <your file extension without dot.> E.g.: ./run.sh png
 > Kindly install ```libwebp``` for working with/using .webp format.
 > If you are not using any WM then you can convert all these files into .png or something you want.
 
-- Now you need to implement a for loop in your shell and all done.
 ## Happy Hacking.
 
