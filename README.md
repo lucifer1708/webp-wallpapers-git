@@ -1,5 +1,5 @@
 # My Personal Wallpapers
-This repository contains my collection of wallpapers. I like them so it is not necessary  that you will like them too
+This repository contains my collection of wallpapers. I like them so it is not necessary  that you will like them too.
 ## If you want to contribute to this repo:-
 1. Add wallpapers only in **.webp** format.
 2. Wallpapers size should be 1920px in width.
