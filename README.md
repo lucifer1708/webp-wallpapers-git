@@ -12,7 +12,7 @@ This repository contains my collection of wallpapers. I like them so it is not n
     ```
 - Now, you will have installed a tool named **convert** in your system.
     ```bash
-    $ ./run.sh <your file extension without dot.> E.g.: ./run.sh png
+     $ ./run.sh <your file extension without dot.> E.g.: ./run.sh png
     ```
 > Kindly install ```libwebp``` for working with/using .webp format.
 > If you are not using any WM then you can convert all these files into .png or something you want.
